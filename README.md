@@ -92,7 +92,7 @@ censorly-pro/
 │   ├── package.json                # NPM dependencies and scripts
 │   └── tailwind.config.js          # Tailwind CSS configuration
 └── README.md                       # Project documentation
-
+```
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -187,12 +187,13 @@ Once the server is running, visit `http://localhost:8000/docs` for interactive A
 - `DELETE /api/cleanup/{job_id}` - Clean up processed files
 ---
 
-# Cell 19: License and Credits
-
-```markdown
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.  
+© 2025 Naveen Sasikumar
+
+---
+
 
 ## 🙏 Acknowledgments
 
@@ -200,7 +201,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Hugging Face Transformers** for NLP models
 - **FastAPI** for the excellent web framework
 - **Next.js** for the frontend framework
-
+---
 ## 📧 Support
 
 For support, email support@censorly.com or open an issue on GitHub.
