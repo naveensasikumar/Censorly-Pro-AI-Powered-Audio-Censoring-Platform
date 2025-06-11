@@ -203,11 +203,6 @@ This project is licensed under the MIT License.
 - **FastAPI** for the excellent web framework
 - **Next.js** for the frontend framework
 ---
-## 📧 Support
-
-For support, email support@censorly.com or open an issue on GitHub.
-
----
 
 **Built with ❤️ for safer audio content**
 
