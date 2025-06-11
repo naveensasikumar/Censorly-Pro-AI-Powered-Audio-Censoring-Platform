@@ -103,42 +103,47 @@ censorly-pro/
 
 ### Backend Setup
 
-```bash
 # 1. Clone the repository
+```bash
 git clone https://github.com/yourusername/censorly-pro.git
 cd censorly-pro
-
+```
 # 2. Create virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 # 3. Install Python dependencies
+```bash
 pip install fastapi uvicorn whisper transformers torch pydub numpy pandas pickle-mixin
+```
 
 # 4. Start the FastAPI server
+```bash
 cd backend
 python main.py
+```
 
 - The API will be available at http://localhost:8000
 ### Frontend Setup
-
-```bash
 # 1. Navigate to frontend directory
+```bash
 cd frontend
+```
 
 # 2. Install dependencies
+```bash
 npm install
+```
 
 # 3. Start the development server
+```bash
 npm run dev
+```
 - The API will be available at http://localhost:3000
 
 ---
-
-# Cell 8: Usage Guide
-
-```markdown
-## 🎯 Usage
 
 ### Basic Audio Censoring
 
@@ -151,10 +156,6 @@ npm run dev
 4. **Download**: Get your censored audio files with detailed reports
 
 ---
-
-# Cell 10: AI Detection System
-
-```markdown
 ## 🧠 AI Detection System
 
 ### Advanced Text Detection
