@@ -93,6 +93,10 @@ censorly-pro/
 │   └── tailwind.config.js          # Tailwind CSS configuration
 └── README.md                       # Project documentation
 ```
+## 🎥 Demo
+
+![Censorly Pro Demo](./assets/demo.gif)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
